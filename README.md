@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### Im cosing on Python, Lua, Java, C++!
+#### Im coding on Python, Lua, Java, C++!
 [Free bobux](https://www.youtube.com/watch?v=dQw4w9WgXcQ) - Free bobux!
 
 <!--
