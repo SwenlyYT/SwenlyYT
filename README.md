@@ -2,6 +2,8 @@
 #### Im coding on Python, Lua, Java, C++!
 [Free bobux](https://www.youtube.com/watch?v=dQw4w9WgXcQ) - Free bobux!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swenlyyt)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **SwenlyYT/SwenlyYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
