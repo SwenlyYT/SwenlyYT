@@ -15,14 +15,15 @@
             </style>
 
      
-            <div align="top">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swenlyyt&theme=tokyonight">
-            </div>
-            <div align="top">
-            <img src="https://github-readme-stats.vercel.app/api?username=swenlyyt&theme=tokyonight&show_icons=true">
-            </div>
-      </div>
-  </foreignObject>
+<div align="top">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swenlyyt&theme=tokyonight">
+</div>
+<div align="top">
+    <img src="https://github-readme-stats.vercel.app/api?username=swenlyyt&theme=tokyonight&show_icons=true">
+</div>
+
+</div>
+    </foreignObject>
 </svg>
 
 
