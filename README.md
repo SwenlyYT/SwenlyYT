@@ -6,9 +6,7 @@
  <img width="600" src="https://github.com/BaggerFast/BaggerFast/blob/main/assets/github-snake.svg?short_path=68e728e" alt="snake"/>
 </p>
 
-<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swenlyyt&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 
 <!--
