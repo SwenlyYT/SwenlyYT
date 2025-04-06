@@ -3,7 +3,7 @@
 [Free bobux](https://www.youtube.com/watch?v=dQw4w9WgXcQ) - Free bobux!
 
 
-<div>
+<div style="position:absolute; top: 100px; left: 100px;">
 <img src="https://github-readme-stats.vercel.app/api?username=swenlyyt&theme=tokyonight&show_icons=true">
 </div>
 <div style="position:absolute; top: 100px; left: 100px;">
