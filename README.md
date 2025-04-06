@@ -3,10 +3,10 @@
 [Free bobux](https://www.youtube.com/watch?v=dQw4w9WgXcQ) - Free bobux!
 
 
-<div style="position:absolute; top: 100px; left: 100px;">
+<div style="position:absolute; top: 100; left: 100;">
 <img src="https://github-readme-stats.vercel.app/api?username=swenlyyt&theme=tokyonight&show_icons=true">
 </div>
-<div style="position:absolute; top: 100px; left: 100px;">
+<div style="position:absolute; top: 100; left: 100;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swenlyyt&theme=tokyonight">
 </div>
 
