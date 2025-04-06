@@ -2,26 +2,26 @@
 #### Im coding on Python, Lua, Java, C++!
 [Free bobux](https://www.youtube.com/watch?v=dQw4w9WgXcQ) - Free bobux!
 
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-         .center {
-           margin: auto;
-           width: 50%;
-           border: 3px solid green;
-           padding: 10px;
-         }
-      </style>
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+               .center {
+                 margin: auto;
+                 width: 50%;
+                 border: 3px solid green;
+                 padding: 10px;
+               }
+            </style>
 
      
-   <div align="top">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swenlyyt&theme=tokyonight">
-   </div>
-   <div align="top">
-   <img src="https://github-readme-stats.vercel.app/api?username=swenlyyt&theme=tokyonight&show_icons=true">
-   </div>
-   </div>
+            <div align="top">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swenlyyt&theme=tokyonight">
+            </div>
+            <div align="top">
+            <img src="https://github-readme-stats.vercel.app/api?username=swenlyyt&theme=tokyonight&show_icons=true">
+            </div>
+      </div>
   </foreignObject>
 </svg>
 
