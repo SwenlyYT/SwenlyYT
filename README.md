@@ -2,18 +2,10 @@
 #### Im coding on Python, Lua, Java, C++!
 [Free bobux](https://www.youtube.com/watch?v=dQw4w9WgXcQ) - Free bobux!
 
-<style>
- div.relative {
-  position: relative;
-  left: 30px;
-  border: 3px solid #000000;
-}
-</style>
-
-<div class="relative">
+<div align="right">
 <img src="https://github-readme-stats.vercel.app/api?username=swenlyyt&theme=tokyonight&show_icons=true">
 </div>
-<div class="relative">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swenlyyt&theme=tokyonight">
 </div>
 
