@@ -9,9 +9,11 @@
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=swenlyyt&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=swenlyyt&theme=tokyonight&show_icons=true"
+    media="(prefers-color-scheme: dark)"
   />
 </picture>
 </div>
