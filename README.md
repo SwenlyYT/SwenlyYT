@@ -2,8 +2,11 @@
 #### Im coding on Python, Lua, Java, C++!
 [Free bobux](https://www.youtube.com/watch?v=dQw4w9WgXcQ) - Free bobux!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swenlyyt)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+ <img width="600" src="https://github.com/BaggerFast/BaggerFast/blob/main/assets/github-snake.svg?short_path=68e728e" alt="snake"/>
+</p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swenlyyt)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SwenlyYT/SwenlyYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
