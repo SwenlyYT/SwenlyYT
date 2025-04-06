@@ -2,10 +2,6 @@
 #### Im coding on Python, Lua, Java, C++!
 [Free bobux](https://www.youtube.com/watch?v=dQw4w9WgXcQ) - Free bobux!
 
-<p align="center">
- <img width="600" src="https://github.com/BaggerFast/BaggerFast/blob/main/assets/github-snake.svg?short_path=68e728e" alt="snake"/>
-</p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swenlyyt&theme=tokyonight&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -24,3 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+<p align="center">
+ <img width="600" src="https://github.com/BaggerFast/BaggerFast/blob/main/assets/github-snake.svg?short_path=68e728e" alt="snake"/>
+</p>
+-->
