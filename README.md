@@ -2,7 +2,7 @@
 #### Im coding on Python, Lua, Java, C++!
 [Free bobux](https://www.youtube.com/watch?v=dQw4w9WgXcQ) - Free bobux!
 
-<div align="right">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=swenlyyt&theme=tokyonight&show_icons=true">
 </div>
 <div>
