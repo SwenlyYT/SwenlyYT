@@ -6,7 +6,7 @@
  div.relative {
   position: relative;
   left: 30px;
-  border: 3px solid #73AD21;
+  border: 3px solid #000000;
 }
 </style>
 
