@@ -2,10 +2,10 @@
 #### Im coding on Python, Lua, Java, C++!
 [Free bobux](https://www.youtube.com/watch?v=dQw4w9WgXcQ) - Free bobux!
 
-<div align="center">
+<div align="top">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swenlyyt&theme=tokyonight">
 </div>
-<div align="center">
+<div align="top">
 <img src="https://github-readme-stats.vercel.app/api?username=swenlyyt&theme=tokyonight&show_icons=true">
 </div>
 
