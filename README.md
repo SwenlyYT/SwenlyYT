@@ -1,11 +1,6 @@
-<center>
- ### Hi there 👋
+### Hi there 👋
 #### Im coding on Python, Lua, Java, C++!
 [Free bobux](https://www.youtube.com/watch?v=dQw4w9WgXcQ) - Free bobux!
-</center>
-
-
-
 
 
 <div>
